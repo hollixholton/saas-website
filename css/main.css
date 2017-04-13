@@ -1,6 +1,6 @@
- html {
-   background-color: #ddc5e5;
-   font-family: 'Quicksand', sans-serif;
+html {
+  background-color: #EDE9F4;
+  font-family: "Open Sans", sans-serif;
  }
 
 nav {
@@ -9,7 +9,14 @@ nav {
 
 h1 {
   color: #fff;
-  text-decoration: none;
+}
+
+h1, h2, h3 {
+  font-family: "Days One", sans-serif;
+}
+
+h2, h3 {
+  color: #614882;
 }
 
 .nav-text {
@@ -24,10 +31,6 @@ nav {
   background-color: #fff;
 }
 
-li {
-  width: 33%;
-}
-
 .polaroid {
   background-color: #fff;
   text-decoration: none;
@@ -35,5 +38,20 @@ li {
 
 .current {
   background-color: #fff;
+  color: #000;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn {
+  background-color:  #614882;
+  border: none;
+  color: #fff;
+}
+
+footer a {
   color: #000;
 }
