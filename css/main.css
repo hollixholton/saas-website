@@ -1,0 +1,39 @@
+ html {
+   background-color: #ddc5e5;
+   font-family: 'Quicksand', sans-serif;
+ }
+
+nav {
+  background-color: #614882;
+}
+
+h1 {
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-text {
+  color: #ddc5e5;
+}
+
+nav {
+  color: #fff;
+}
+
+.banner {
+  background-color: #fff;
+}
+
+li {
+  width: 33%;
+}
+
+.polaroid {
+  background-color: #fff;
+  text-decoration: none;
+}
+
+.current {
+  background-color: #fff;
+  color: #000;
+}
