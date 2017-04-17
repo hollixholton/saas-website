@@ -1,10 +1,11 @@
 html {
-  background-color: #EDE9F4;
+
   font-family: "Open Sans", sans-serif;
  }
 
 nav {
   background-color: #614882;
+  color: #fff;
 }
 
 h1 {
@@ -23,10 +24,6 @@ h2, h3 {
   color: #ddc5e5;
 }
 
-nav {
-  color: #fff;
-}
-
 .banner {
   background-color: #fff;
 }
@@ -34,10 +31,13 @@ nav {
 .polaroid {
   background-color: #fff;
   text-decoration: none;
+  border-style: solid;
+  border-color: #EDE9F4;
+  border-width: 5px;
 }
 
 .current {
-  background-color: #fff;
+  background-color: #ddc5e5;
   color: #000;
 }
 
@@ -54,4 +54,44 @@ a {
 
 footer a {
   color: #000;
+}
+
+.cards {
+  background-color: #ddc5e5;
+  border-color: #fff;
+  border-style: solid;
+  border-width: 5px;
+}
+
+.icons {
+  background-color: #EDE9F4;
+}
+
+.polaroids {
+  background-color: #EDE9F4;
+}
+
+.review {
+  border-top: solid;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  border-color: #ddc5e5;
+}
+
+.features {
+  color: #000;
+}
+
+.btn a:hover {
+  background-color: #ddc5e5;
+  color: #000;
+}
+
+form {
+  background-color: #ddc5e5;
+}
+
+.section {
+  background-color: #fff;
 }
