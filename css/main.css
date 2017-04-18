@@ -8,15 +8,11 @@ nav {
   color: #fff;
 }
 
-h1 {
-  color: #fff;
-}
-
 h1, h2, h3 {
   font-family: "Days One", sans-serif;
 }
 
-h2, h3 {
+h1, h2, h3 {
   color: #614882;
 }
 
@@ -83,10 +79,6 @@ footer a {
   color: #000;
 }
 
-.btn a:hover {
-  background-color: #ddc5e5;
-  color: #000;
-}
 
 form {
   background-color: #ddc5e5;
