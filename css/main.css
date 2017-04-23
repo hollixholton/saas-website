@@ -1,7 +1,7 @@
 html {
 
   font-family: "Open Sans", sans-serif;
- }
+}
 
 nav {
   background-color: #614882;
@@ -10,9 +10,6 @@ nav {
 
 h1, h2, h3 {
   font-family: "Days One", sans-serif;
-}
-
-h1, h2, h3 {
   color: #614882;
 }
 
@@ -28,7 +25,7 @@ h1, h2, h3 {
   background-color: #fff;
   text-decoration: none;
   border-style: solid;
-  border-color: #EDE9F4;
+  border-color: #ede9f4;
   border-width: 5px;
 }
 
@@ -43,7 +40,7 @@ a {
 }
 
 .btn {
-  background-color:  #614882;
+  background-color: #614882;
   border: none;
   color: #fff;
 }
@@ -60,11 +57,11 @@ footer a {
 }
 
 .icons {
-  background-color: #EDE9F4;
+  background-color: #ede9f4;
 }
 
 .polaroids {
-  background-color: #EDE9F4;
+  background-color: #ede9f4;
 }
 
 .review {
@@ -78,7 +75,6 @@ footer a {
 .features {
   color: #000;
 }
-
 
 form {
   background-color: #ddc5e5;
