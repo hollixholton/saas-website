@@ -88,3 +88,13 @@ nav a:hover {
   background-color: #000;
   color: #fff;
 }
+
+.cust-button {
+  background-color: #ddc5e5;
+  border-radius: 7px;
+  padding: 1em;
+}
+
+.secondary-table {
+  background-color: #f2f2f2;
+}
